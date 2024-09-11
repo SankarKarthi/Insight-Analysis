@@ -1,0 +1,9 @@
+contextlib2
+pandas
+numpy
+streamlit
+matplotlib
+seaborn
+plotly
+scipy
+scikit-learn
