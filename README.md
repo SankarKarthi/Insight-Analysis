@@ -51,8 +51,25 @@ To run the app locally, you'll need to install the following dependencies:
 1. Open your browser and go to `http://localhost:8501/`.
 2. Select a demo from the sidebar:
    - **Main**: Introduction to the app and contact information.
+
+   ![alt text](image.png)
+
    - **Data PreProcessing**: Upload and clean your dataset.
+
+   ![alt text](image-1.png)
+
+   ![alt text](image-2.png)
+
    - **Regression and Prediction**: Apply machine learning models.
+
+   ![alt text](image-3.png)
+
+   ![alt text](image-4.png)
+   
    - **Feature Extraction**: Analyze feature importance.
+
+   ![alt text](image-5.png)
+
 3. Upload a CSV file to start analyzing data.
 4. View the output and download the cleaned dataset or model files.
+
