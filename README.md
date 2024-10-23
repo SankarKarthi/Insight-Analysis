@@ -1,6 +1,6 @@
-# Data Dumper
+# Analyze This
 
-**Data Dumper** is a Streamlit-based web application for data analysis and machine learning. It allows users to upload a dataset, clean and preprocess the data, apply machine learning models, and extract important features for prediction. The app is designed for users with minimal coding experience, enabling them to analyze data easily and generate insights.
+**Analyze This** is a Streamlit-based web application for data analysis and machine learning. It allows users to upload a dataset, clean and preprocess the data, apply machine learning models, and extract important features for prediction. The app is designed for users with minimal coding experience, enabling them to analyze data easily and generate insights.
 
 ## Features
 - **Data Preprocessing**: Upload datasets, check for null values, fill missing data, and perform basic data cleaning.
@@ -65,7 +65,7 @@ To run the app locally, you'll need to install the following dependencies:
    ![alt text](image-3.png)
 
    ![alt text](image-4.png)
-   
+
    - **Feature Extraction**: Analyze feature importance.
 
    ![alt text](image-5.png)
